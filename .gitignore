@@ -1,0 +1,11 @@
+# ~/.config/nvim/.gitignore
+
+
+# 캐시 및 임시 파일
+/cache/
+/log/
+/shada/
+
+# 스왑 파일
+*.swp
+*.swo
